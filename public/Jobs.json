@@ -178,49 +178,5 @@
         "projects": "Building and maintaining infrastructure for a SaaS platform",
         "benefits": "Health insurance, 401k, flexible work schedule, and continuing education opportunities",
         "salary": "$110000 - $130000 per year"
-    },
-    {
-        "title": "Not set, please contact the company for details.",
-        "company": "Not set, please contact the company for details.",
-        "description": "Not set, please contact the company for details.",
-        "location": "Not set, please contact the company for details.",
-        "job_type": "Not set, please contact the company for details.",
-        "remote_working": "Not set, please contact the company for details.",
-        "skills_required": "Not set, please contact the company for details.",
-        "experience": "Not set, please contact the company for details.",
-        "team_size": "Not set, please contact the company for details.",
-        "projects": "Not set, please contact the company for details.",
-        "benefits": "Not set, please contact the company for details.",
-        "salary": "$ - $ per year",
-        "id": "undefined"
-    },
-    {
-        "title": "a",
-        "company": "a",
-        "description": "a",
-        "location": "a",
-        "job_type": "full-time",
-        "remote_working": "Not set, please contact the company for details.",
-        "skills_required": "asd",
-        "experience": "nada ",
-        "team_size": "Not set, please contact the company for details.",
-        "projects": "Not set, please contact the company for details.",
-        "benefits": "Not set, please contact the company for details.",
-        "salary": "$60000 - $130000 per year",
-        "id": "undefined"
-    },
-    {
-        "title": "Not set, please contact the company for details.",
-        "company": "Not set, please contact the company for details.",
-        "description": "Not set, please contact the company for details.",
-        "location": "Not set, please contact the company for details.",
-        "job_type": "Not set, please contact the company for details.",
-        "remote_working": "Not set, please contact the company for details.",
-        "skills_required": "Not set, please contact the company for details.",
-        "experience": "Not set, please contact the company for details.",
-        "team_size": "Not set, please contact the company for details.",
-        "projects": "Not set, please contact the company for details.",
-        "benefits": "Not set, please contact the company for details.",
-        "salary": "$ - $ per year"
     }
 ]
