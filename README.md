@@ -8,8 +8,7 @@ Our mission is to help programmers and developers find the right job, and to hel
 Our vision is to become the go-to job board for programmers and developers, and to help bridge the gap between the job market and the skills of our community. We strive to create a platform that connects qualified candidates with the right job opportunities, and makes the hiring process as seamless as possible.
 
 # Built using:
-HTML, Bootstrap 5, CSS, JavaScript
-Node.js, Express.js
+HTML, Bootstrap 5, CSS, JavaScript, Node.js and Express.js
 
 # Features:
 Simple and easy-to-use interface
