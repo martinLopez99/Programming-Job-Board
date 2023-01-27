@@ -87,7 +87,7 @@ postButton.addEventListener('click', function (event) {
             .then(data => {
                 console.log('Success:', data);
                 alert("New Job posted!");
-                location.reload();
+                location.replace('/')
             })
             .catch(error => {
                 console.error('Error:', error);

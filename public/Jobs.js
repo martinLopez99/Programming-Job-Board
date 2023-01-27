@@ -18,20 +18,22 @@ fetch('./Jobs.json')
             <p> <strong>Description</strong>: ${job.description}</p>
             <p> <strong>Location</strong>: ${job.location}</p>
             <p> <strong>Salary</strong>: ${job.salary}</p>
-            <button type="button" class="btn btn-dark" id = "apply-button-${counter}">Apply</button>
+            <button type="button" class="btn btn-dark" id = "apply-button">Apply</button>
             <button type="button" class="btn btn-info">More Info</button>
         `;
-            counter = ++counter;
+            counter = ++counter; //I didn't use it jet
             jobList.appendChild(li);
         });
 
-/*         const applyButton = document.getElementById('apply-button');
-        const id = document.getElementById('id');
-        //const job = document.getElementById('')
-        applyButton.addEventListener('click', function (event) {
-            alert("Your application for the " + job.title + " position at " + job.company + " has been received!");
-        }); */
+
+    })
+/*     .then(() => {
+        const applyButton = document.getElementById('apply-button');
+        applyButton.addEventListener('click', function (event) {    //STILL WORKING ON THIS! 
+            location.replace('/apply')
+        })
     });
+ */
 
 
 
