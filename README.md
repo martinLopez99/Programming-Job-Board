@@ -1,5 +1,5 @@
 # Programming-Job-Board
- Welcome to our Programming Job Board, where you can find the latest job opportunities for programmers and developers. Our job board is designed to make it easy for you to find the right job for your skills and experience. We offer a wide range of job listings from entry-level to senior positions, and from full-time to freelance. With our job board, you can find the perfect job that matches your requirements and carrer aspirations.
+ Welcome to our Programming Job Board, where you can find the latest job opportunities for programmers and developers. Our job board is designed to make it easy for you to find the right job for your skills and experience. We offer a wide range of job listings from entry-level to senior positions, and from full-time to freelance. With our job board, you can find the perfect job that matches your requirements and career aspirations.
 
 # Mission:
 Our mission is to help programmers and developers find the right job, and to help employers find the right talent. We believe that everyone deserves to have a job that matches their skills and experience, and we are committed to making that happen.
