@@ -3,9 +3,10 @@ const keywordsInput = document.getElementById('keywords');
 const locationInput = document.getElementById('location');
 const searchButton = document.getElementById('filter-button');
 const jobList = document.getElementById('job-list');
-let counter = 1;
+//let counter = 1;
 
 // Displays all jobs on the list.
+
 fetch('./Jobs.json')
     .then(response => response.json())
     .then(jobs => {
@@ -21,19 +22,24 @@ fetch('./Jobs.json')
             <button type="button" class="btn btn-dark" id = "apply-button">Apply</button>
             <button type="button" class="btn btn-info">More Info</button>
         `;
-            counter = ++counter; //I didn't use it jet
+            //counter = ++counter; //I didn't use it jet
             jobList.appendChild(li);
         });
 
 
     })
-/*     .then(() => {
-        const applyButton = document.getElementById('apply-button');
-        applyButton.addEventListener('click', function (event) {    //STILL WORKING ON THIS! 
-            location.replace('/apply')
-        })
+     .then(() => {
+        const applyButton = document.querySelectorAll('.btn-dark');
+        
+        for (let i = 0; i < applyButton.length; i++) {
+            applyButton[i].addEventListener('click', function(event) {
+                console.log('button-'+i);
+                location.replace('/apply');
+            });
+        }
+
     });
- */
+ 
 
 
 
